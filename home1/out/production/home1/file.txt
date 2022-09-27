@@ -1,0 +1,4 @@
+We assume that this file contains names of people with a name per line.
+Names (and hence lines) are listed in ascending alphabetical order in the file.
+We can not find the same line twice.
+What does Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore mean in English?
